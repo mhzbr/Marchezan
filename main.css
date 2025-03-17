@@ -190,12 +190,10 @@ section {
 .about .image img {
     width: 100%;
     padding: 2rem;
-    border-radius: 20px;
 }
 
 .about .content {
     flex: 1 1 42rem;
-    border-radius: 20px;
 }
 .about .content span {
     font-size: 2rem;
