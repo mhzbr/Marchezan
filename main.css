@@ -358,6 +358,11 @@ section {
     color: rgba(2, 20, 32, 0.979);
 }
 
+.custom-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .trainers .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(29rem, 1fr));
