@@ -166,7 +166,7 @@ section {
 .about .image {
     flex: 1 1 42rem;
     position: relative;
-    border-radius: 20px;
+    border-radius: 20;
 }
 .about .image::before,
 .about .image::after {
@@ -176,7 +176,6 @@ section {
     background: rgba(2, 20, 32, 0.979);
     height: 15rem;
     width: 15rem;
-    border-radius: 20px;
 }
 .about .image::before {
     top: 0;
